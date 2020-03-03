@@ -9,20 +9,6 @@ Open the demo.ipynb file (available in this repository) and click on open in col
 ### Step 2:
 Run all the cells and Congrats! You will deploy your first edge app on Google Colab.
 
-
-## Project Members:
-
-***MUHAMMAD ALI***
-
-***SLACK USERNAME: Muhammad.Ali***
-
-***EMAIL: malirashid1994@gmail.com***
-
-***ABHIK BANERJEE***
-
-***SLACK USERNAME: Abhik Banerjee***
-
-
 ## REFERENCES:
 ### Intel's Official Installation Guide for OpenVINO on linux: 
 [https://docs.openvinotoolkit.org/latest/_docs_install_guides_installing_openvino_linux.html#install-openvino]
